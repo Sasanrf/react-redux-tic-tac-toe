@@ -1,4 +1,4 @@
-This is my personal solution to practice of React’s tic-tac-toe tutorial.
+This is my personal solution to practice of React’s tic-tac-toe tutorial plus redux.
 
  ideas for improvements for the tic-tac-toe game which are listed in order of increasing difficulty:
 
